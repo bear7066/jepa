@@ -1,4 +1,4 @@
-# V-JEPA: Video Joint Embedding Predictive Architecture
+# V-JEPA: Video Joint Embedding Predictive Architecture.
 
 Official PyTorch codebase for the _video joint-embedding predictive architecture_, V-JEPA, a method for self-supervised learning of visual representations from video.
 
